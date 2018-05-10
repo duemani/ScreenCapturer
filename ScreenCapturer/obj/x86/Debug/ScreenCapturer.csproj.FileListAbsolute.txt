@@ -1,0 +1,23 @@
+C:\Users\Duemani\Desktop\ScreenCapturer\ScreenCapturer\obj\x86\Debug\ScreenCapturer.exe
+C:\Users\Duemani\Desktop\ScreenCapturer\ScreenCapturer\obj\x86\Debug\ScreenCapturer.pdb
+C:\Users\Duemani\Desktop\ScreenCapturer\ScreenCapturer\bin\Debug\ScreenCapturer.exe
+C:\Users\Duemani\Desktop\ScreenCapturer\ScreenCapturer\bin\Debug\ScreenCapturer.pdb
+C:\Users\Duemani\Desktop\ScreenCapturer\ScreenCapturer\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Duemani\Desktop\ScreenCapturer\ScreenCapturer\obj\x86\Debug\ScreenCapturer.csprojResolveAssemblyReference.cache
+C:\Users\Duemani\Desktop\ScreenCapturer\ScreenCapturer\obj\x86\Debug\ScreenCapturer.Form1.resources
+C:\Users\Duemani\Desktop\ScreenCapturer\ScreenCapturer\obj\x86\Debug\ScreenCapturer.Form2.resources
+C:\Users\Duemani\Desktop\ScreenCapturer\ScreenCapturer\obj\x86\Debug\ScreenCapturer.Form3.resources
+C:\Users\Duemani\Desktop\ScreenCapturer\ScreenCapturer\obj\x86\Debug\ScreenCapturer.Properties.Resources.resources
+C:\Users\Duemani\Desktop\ScreenCapturer\ScreenCapturer\obj\x86\Debug\ScreenCapturer.csproj.GenerateResource.Cache
+C:\Users\Duemani\documents\visual studio 2010\Projects\screencapturer\ScreenCapturer\obj\x86\Debug\ScreenCapturer.csproj.ResolveComReference.cache
+C:\Users\Duemani\documents\visual studio 2010\Projects\screencapturer\ScreenCapturer\obj\x86\Debug\ScreenCapturer.Form1.resources
+C:\Users\Duemani\documents\visual studio 2010\Projects\screencapturer\ScreenCapturer\obj\x86\Debug\ScreenCapturer.Form3.resources
+C:\Users\Duemani\documents\visual studio 2010\Projects\screencapturer\ScreenCapturer\obj\x86\Debug\ScreenCapturer.Properties.Resources.resources
+C:\Users\Duemani\documents\visual studio 2010\Projects\screencapturer\ScreenCapturer\obj\x86\Debug\ScreenCapturer.csproj.GenerateResource.Cache
+C:\Users\Duemani\documents\visual studio 2010\Projects\screencapturer\ScreenCapturer\bin\Debug\ScreenCapturer.exe
+C:\Users\Duemani\documents\visual studio 2010\Projects\screencapturer\ScreenCapturer\bin\Debug\ScreenCapturer.pdb
+C:\Users\Duemani\documents\visual studio 2010\Projects\screencapturer\ScreenCapturer\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Duemani\documents\visual studio 2010\Projects\screencapturer\ScreenCapturer\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Duemani\documents\visual studio 2010\Projects\screencapturer\ScreenCapturer\obj\x86\Debug\ScreenCapturer.exe
+C:\Users\Duemani\documents\visual studio 2010\Projects\screencapturer\ScreenCapturer\obj\x86\Debug\ScreenCapturer.pdb
+C:\Users\Duemani\documents\visual studio 2010\Projects\ScreenCapturer\ScreenCapturer\obj\x86\Debug\ScreenCapturer.csprojResolveAssemblyReference.cache
